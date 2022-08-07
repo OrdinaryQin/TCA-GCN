@@ -27,7 +27,7 @@ python main.py --config <work_dir>/config.yaml --work-dir <work_dir>  --weights 
 
 
 - To ensemble the results of different streams
-python ensemble.py 
+python zhenghe.py 
 
 # Pretrained Models
 
