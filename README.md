@@ -16,7 +16,7 @@ The code will be open source soon...
 
 ### Training
 
-# Example: training TCAGCN on NTU RGB+D 120 cross subject, the training setup parameters for the other datasets are set under the './config' file 
+ Example: training TCAGCN on NTU RGB+D 120 cross subject, the training setup parameters for the other datasets are set under the './config' file 
 python main.py --config config/nturgbd120-cross-subject/default.yaml 
 
 
