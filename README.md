@@ -35,7 +35,9 @@ We provide individual stream weighting files for the relevant dataset
 # Acknowledgements
 This repo is manly based on [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN). 
 Many thanks to the authors for their work and to the original authors involved for giving me an opportunity to learn from them.
-# Please cite the paper if you find it useful:
+#  Citation 
+
+Please cite the paper if you find it useful:
 
 @misc{https://doi.org/10.48550/arxiv.2205.15936,
   doi = {10.48550/ARXIV.2205.15936},
