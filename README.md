@@ -38,7 +38,6 @@ Many thanks to the authors for their work and to the original authors involved f
 # Please cite the paper if you find it useful:
 
 @misc{https://doi.org/10.48550/arxiv.2205.15936,
-
   doi = {10.48550/ARXIV.2205.15936},
   
   url = {https://arxiv.org/abs/2205.15936},
