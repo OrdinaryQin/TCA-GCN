@@ -38,12 +38,20 @@ Many thanks to the authors for their work and to the original authors involved f
 # Please cite the paper if you find it useful:
 
 @misc{https://doi.org/10.48550/arxiv.2205.15936,
+
   doi = {10.48550/ARXIV.2205.15936},
+  
   url = {https://arxiv.org/abs/2205.15936},
+  
   author = {Wang, Shengqin and Zhang, Yongji and Wei, Fenglin and Wang, Kai and Zhao, Minghao and Jiang, Yu},
+  
   keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
   title = {Skeleton-based Action Recognition via Temporal-Channel Aggregation},
+  
   publisher = {arXiv},
+  
   year = {2022},
+  
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
