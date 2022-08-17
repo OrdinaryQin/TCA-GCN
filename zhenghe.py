@@ -5,7 +5,7 @@ import os
 import numpy as np
 from tqdm import tqdm
 if __name__ == "__main__":
-    npz_data = np.load(r'E:\ntuu\NTU60_CS.npz')
+    npz_data = np.load(r'E:\ntuu\NTU120_CSub.npz')
     label = np.where(npz_data['y_test'] > 0)[1]
     
     with open(os.path.join(r'C:\Users\lenovo\Desktop\affview10\1', 'epoch1_test_score.pkl'), 'rb') as r1:
@@ -29,9 +29,9 @@ if __name__ == "__main__":
  #   for alpha in np.arange(0,2.1,0.1):
     acc=[]        
     alpha1=0.6
-    alpha2=0.6
-    alpha3=0.4
-    alpha4=0.4
+    alpha2=0.75
+    alpha3=0.3
+    alpha4=0.15
  #   for alpha in np.arange(0.0,2.1,0.1):
 #        for alpha1 in np.arange(0.0,2.1,0.1):
    # Ageshu=np.zeros((120,120)
